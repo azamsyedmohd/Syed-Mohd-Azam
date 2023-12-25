@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Food App](https://github.com/Syed-Mohd-Azam/Food-Ordering-Application--React)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript, React, Redux toolkit **
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
