@@ -1,5 +1,4 @@
-<div> <img  width="100%" height="300" src="./github-header-image.png" alt="My Guthub Profile Banner Image"/></div>
-
+<div> <img  width="100%" height="300" src="./profile-banner.png" alt="My Guthub Profile Banner Image"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mohd-azam&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mohd-azam" /> </p>
 
@@ -27,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-mohd-azam&show_icons=true&locale=en" alt="syed-mohd-azam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-mohd-azam&" alt="syed-mohd-azam" /></p>
-
-
-
