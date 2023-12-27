@@ -1,4 +1,4 @@
-<div> <img width="100%" height="300" src="./github-header-image.png" alt="My Guthub Profile Banner Image"/></div>
+<div> <img style="border-radius:10px" width="100%" height="300" src="./github-header-image.png" alt="My Guthub Profile Banner Image"/></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mohd-azam&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mohd-azam" /> </p>
