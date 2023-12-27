@@ -1,4 +1,4 @@
-
+<div> <img src="./github-header-image.png" alt="My Guthub Profile Banner Image"/></div>
 <h1 align="center">Hi 👋, I'm Syed Mohd Azam</h1>
 <h1 align="center">Front End Developer</h1>
 
