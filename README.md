@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Redux toolkit **
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS**
 
 - 📫 How to reach me **smazamamu@gmail.com**
 
