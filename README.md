@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mohd-azam&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mohd-azam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-mohd-azam" alt="syed-mohd-azam" /></a> </p>
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gj0JuCTfY95rY0ILlh21qqH6V6Iy-7E-jBql95Fo2QVk-WusHqs_KPe7o0n-YZE2y4E&usqp=CAU" width="400" height="250" style="border-radius: 20px; margin:20px;"/>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHiqmQWzENMFApNFXr8yK8N-hjIKm-iKOO8Eu3oA797GsGDx2MR5GVtwDpuEK3-DfdZ4&usqp=CAU" width="400" height="250" style="border-radius: 20px; margin:20px;"/>
 
 - 🔭 I’m currently working on [Food App](https://github.com/Syed-Mohd-Azam/Food-Ordering-Application--React)
 
