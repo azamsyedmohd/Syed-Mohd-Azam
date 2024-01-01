@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Food App](https://github.com/Syed-Mohd-Azam/Food-Ordering-Application--React)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript, React, React Hooks, Redux Toolkit**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, React Hooks,Tailwind CSS, React Router**
 
