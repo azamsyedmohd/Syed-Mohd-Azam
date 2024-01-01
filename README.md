@@ -1,5 +1,5 @@
 <div>
-<img src="./profile-banner.png" alt="Profile Banner Image" style="display: block;"/>
+<img src="./profile-banner.png" alt="Profile Banner Image" style="display: block;" width="100%"/>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-mohd-azam" alt="syed-mohd-azam" /></a> </p>
