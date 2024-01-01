@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mohd-azam&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mohd-azam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-mohd-azam" alt="syed-mohd-azam" /></a> </p>
-<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjxy--_lL2DAxUFl2MGHaT2CYQQMygDegQIARBc..i&imgrefurl=https%3A%2F%2Fgithub.com%2FShashank02051997&docid=uCwIMO1gX-UDmM&w=800&h=600&q=github%20software%20engineer%20animation&ved=2ahUKEwjxy--_lL2DAxUFl2MGHaT2CYQQMygDegQIARBc" />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCoQlHe5pKITrFDP4-oXB_p-j9G6Cqa-6xkxgZeaAg8aDeTEk6_kV-C15LqXuKlowPZ4&usqp=CAU" />
 
 - 🔭 I’m currently working on [Food App](https://github.com/Syed-Mohd-Azam/Food-Ordering-Application--React)
 
