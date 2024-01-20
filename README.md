@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, React Hooks, Redux Toolkit**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, React Hooks,Tailwind CSS, React Router**
+- 💬 Ask me about **HTML5, CSS, JavaScript, React, React Hooks,Tailwind CSS, React Router**
 
 - 📫 How to reach me **smazamamu@gmail.com**
 
