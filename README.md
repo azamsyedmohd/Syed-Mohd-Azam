@@ -1,7 +1,6 @@
 <section>
 <img src="./profile-banner.png" alt="Profile-Banner-Image"  width="100%"/>
 </section>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-mohd-azam" alt="syed-mohd-azam" /></a> </p>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54UjmhSdPWZe_m9cY6xRdf3X4xCHk_b5Gnd-N4zRxZK6y8MQ9cZ6nYSkgl1wisKpA4J4&usqp=CAU" width="400" height="300" style="border-radius:10px;"/>
 
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, React Hooks, Redux Toolkit**
 
-- 💬 Ask me about **HTML5, CSS3, Responsive Design, JavaScript, React, React Hooks,Tailwind CSS, React Router, State Management**
+- 💬 Ask me about **HTML5, CSS3, Responsive Design, JavaScript, React, React Hooks, Tailwind CSS, React Router, State Management**
 
 - 📫 How to reach me **smazamamu@gmail.com**
 
