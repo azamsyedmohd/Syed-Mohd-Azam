@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on the project [E-Commerce](https://github.com/Syed-Mohd-Azam/E-Commerce)
 
-- 🌱 I’m currently learning **JavaScript, React, React Hooks, Redux Toolkit, Angular,Tailwind CSS**
+- 🌱 I’m currently learning **JavaScript, React, React Hooks, Redux Toolkit, Angular, Tailwind CSS**
 
 - 💬 Ask me about **HTML5, CSS3, Responsive Design, JavaScript, React, React Hooks, Tailwind CSS, React Router, State Management**
 
